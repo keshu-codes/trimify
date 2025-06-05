@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/keshu-codes/trimify/blob/main/preview.jpg?raw=true" alt="Trimify Screenshot" width="80%" />
+  <img src="https://github.com/keshu-codes/trimify/blob/main/Trimify.jpg?raw=true" alt="Trimify Screenshot" width="80%" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 > Show how your app works visually. Replace the GIF URL below once recorded.
 
 <p align="center">
-  <img src="https://your-domain.com/trimify-demo.gif" alt="Trimify Demo GIF" width="90%" />
+  <img src="https://github.com/keshu-codes/trimify/blob/main/Trimify.gif?raw=true" alt="Trimify Demo GIF" width="90%" />
 </p>
 
 ---
